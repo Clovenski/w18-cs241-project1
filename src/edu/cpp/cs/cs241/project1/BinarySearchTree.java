@@ -1,3 +1,5 @@
+package edu.cpp.cs.cs241.project1;
+
 /*
  * This class is the implementation of the binary search tree data structure.
  * It implements basic properties of a binary search tree such as adding a new
@@ -5,7 +7,7 @@
  * value, checking if the tree is empty or not, as well as providing the tree's
  * pre-order, in-order and post-order sequences.
  */
-class BinarySearchTree {
+public class BinarySearchTree {
 	// Field containing the root node of this tree.
 	private TreeNode rootNode;
 	

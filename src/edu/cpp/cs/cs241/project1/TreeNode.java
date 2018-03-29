@@ -1,9 +1,11 @@
+package edu.cpp.cs.cs241.project1;
+
 /*
  * This class represents a node that is implemented in a binary tree data structure.
  * Each node has a data value represented as an integer, as well as a left and right child
  * of type TreeNode to implement the binary tree structure.
  */
-class TreeNode {
+public class TreeNode {
 	private int data;
 	private TreeNode leftChild;
 	private TreeNode rightChild;
