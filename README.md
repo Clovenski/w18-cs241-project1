@@ -1,6 +1,8 @@
 # w18-cs241-project1
 Project that demonstrates the basic properties of a binary search tree.
 
+Main method is located in Project1.java
+
 #### Running the program
 Once you are in the bin folder, you can run the program with, assuming Java is installed properly:
 
